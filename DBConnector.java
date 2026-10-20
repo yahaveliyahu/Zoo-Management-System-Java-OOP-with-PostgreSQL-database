@@ -14,7 +14,7 @@ public class DBConnector {
             // Connection settings:
             String url = "jdbc:postgresql://localhost:5432/zoo_management"; // Database name
             String user = "postgres";       // Your pgAdmin username
-            String password = "123456";
+           // כאן צריך להופיע הסיסמא למסד נתונים
 
             // Returns the connection
             return DriverManager.getConnection(url, user, password);
