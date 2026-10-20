@@ -1,11 +1,3 @@
-/**
- * submitting:
- * Yahav Eliyahu 315906818,
- * Matanya Cohen 312522196,
- * Arad Rotem 207748468
- **/
-
-
 package yahav_eliyahu_arad_rotem;
 
 import java.util.*;
